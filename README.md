@@ -1,2 +1,7 @@
 # airline_delay
 EDA of airlines delay
+
+### TO-DO
+- clustering
+- dimension reduction
+- target encoding - k fold
