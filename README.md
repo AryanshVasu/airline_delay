@@ -6,3 +6,5 @@ EDA of airlines delay
 - dimension reduction
 - target encoding - k fold
 - bagging/ensembling
+- feature transformation (box cox)
+- statistical test (feature selection)
