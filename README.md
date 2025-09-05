@@ -1,2 +1,2 @@
 # airline_delay
-EDA of airlines delay
+EDA and delay prediction for airlines delay dataset.
